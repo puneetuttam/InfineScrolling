@@ -1,5 +1,5 @@
 
-#### Project Live Link : https://infine-scrolling-3o89c85bf-hiccups-projects-0cd8c654.vercel.app/
+### Project Live Link : https://infinite-scrolling-nine-tau.vercel.app/
 
 # Infinite Scroll Gallery with Redux
 
@@ -25,7 +25,7 @@ This project implements an infinite scroll gallery using React, Redux, and Axios
 1. Clone the repository:
 
    ```bash
-   https://infinite-scrolling-nine-tau.vercel.app/
+   https://github.com/puneetuttam/InfiniteScrolling.git
 
 2. Clone the repository:
 
