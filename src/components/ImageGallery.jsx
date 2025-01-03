@@ -23,10 +23,10 @@ const ImageGallery = () => {
             hasMore={true}
             loader={<h4 className="text-center text-gray-600">Loading...</h4>}
         >
-            <div className="flex items-center justify-center w-[100%]">
-                <div className="item-center max-w-screen-lg grid grid-cols-4 grid-rows-5 gap-20">
+            <div className="flex items-center justify-center w-full">
+                <div className="max-w-screen-lg grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
                     {images.map((image) => (
-                        <ImageCard  key={image.id} image={image} />
+                        <ImageCard key={image.id} image={image} />
                     ))}
                 </div>
             </div>
