@@ -26,3 +26,20 @@ This project implements an infinite scroll gallery using React, Redux, and Axios
 
    ```bash
    https://github.com/puneetuttam/InfineScrolling.git
+
+2. Clone the repository:
+
+   ```bash
+   cd InfineScrolling
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+
+4. Run the development server:
+
+   ```bash
+   npm start
+
+5. Open your browser and go to http://localhost:5173 to see the gallery in action.
