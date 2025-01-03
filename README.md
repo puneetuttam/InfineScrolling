@@ -1,6 +1,11 @@
+
+#### Project Live Link : https://infine-scrolling-3o89c85bf-hiccups-projects-0cd8c654.vercel.app/
+
 # Infinite Scroll Gallery with Redux
 
 This project implements an infinite scroll gallery using React, Redux, and Axios to fetch images from the JSONPlaceholder API. The gallery fetches 10 images per page and appends them as the user scrolls down, providing a seamless experience with lazy loading.
+
+
 
 ## Features
 
@@ -20,4 +25,4 @@ This project implements an infinite scroll gallery using React, Redux, and Axios
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/infinite-scroll-gallery.git
+   https://github.com/puneetuttam/InfineScrolling.git
